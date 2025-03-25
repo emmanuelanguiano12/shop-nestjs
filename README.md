@@ -23,3 +23,6 @@ http://localhost:3000/api/seed
 ```
 npm start:dev
 ```
+
+## Docuemntación del APIRest con Postman
+https://documenter.getpostman.com/view/29175062/2sAYkGMKx4
